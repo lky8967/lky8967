@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 <!-- ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=Jeongwoo%20&fontSize=70&&fontAlign=22&&fontAlignY=45&desc=Back-end%20Developer&descAlign=15&descAlignY=65&descSize=24) -->
 
 <!-- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lky8967&hide=stars) -->
-
+<!-- 
 <div align=center> 
       <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=for-the-badge&logo=Spring Boot&logoColor=white"> 
       <img src="https://img.shields.io/badge/codedeploy-6DB33F?style=for-the-badge&logo=codedeploy&logoColor=white">
@@ -34,4 +34,4 @@ Here are some ideas to get you started:
    <img src="https://img.shields.io/badge/Sourcetree-0052CC?style=for-the-badge&logo=Sourcetree&logoColor=white"> 
    <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white">
    <img src="https://img.shields.io/badge/Slack-4A154B7?style=for-the-badge&logo=Slack&logoColor=white">
-     <br/>
+     <br/> -->
